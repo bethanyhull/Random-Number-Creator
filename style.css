@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Bangers', cursive;
+  font-size: 6em;
+  padding: 20px;
+
+}
+
+h4 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5em;
+}
+
+.luckyNumber {
+  font-family: 'Bangers', cursive;
+  font-size: 15em;
+}
+
+button {
+  height: 50px;
+  width: 200px;
+  box-shadow: 10px 10px;
+  background-color: red;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.3em;
+}
